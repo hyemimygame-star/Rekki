@@ -1,5 +1,5 @@
 ## Project name: RE Shop Web UI project
 
 ## team members
-### 1. suzy
-### 2. hyemi
+## 1. bae suzy
+## 2. hye mi
